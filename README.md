@@ -16,7 +16,8 @@ Python for Data Cleaning, Data Transformation, Data Visualisation and Data Analy
 ### Data Set:
 The data set is publicly available on [Kaggle](https://www.kaggle.com/arashnic/fitbit).
 
-From the above 5 phases in the final phase ACT phase will be delivering our insights and providing recommendations based on our analysis.
+####Phase 6: ACT
+From the above 5 phases in the final phase ACT phase we will be delivering our insights and providing recommendations based on our analysis.
 
 Here, we revisit our business questions and share with you our high-level business recommendations.
 
